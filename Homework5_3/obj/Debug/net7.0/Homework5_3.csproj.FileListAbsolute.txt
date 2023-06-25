@@ -1,0 +1,15 @@
+E:\Обучение GEEK\Homework5\Homework5_3\bin\Debug\net7.0\Homework5_3.exe
+E:\Обучение GEEK\Homework5\Homework5_3\bin\Debug\net7.0\Homework5_3.deps.json
+E:\Обучение GEEK\Homework5\Homework5_3\bin\Debug\net7.0\Homework5_3.runtimeconfig.json
+E:\Обучение GEEK\Homework5\Homework5_3\bin\Debug\net7.0\Homework5_3.dll
+E:\Обучение GEEK\Homework5\Homework5_3\bin\Debug\net7.0\Homework5_3.pdb
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\Homework5_3.csproj.AssemblyReference.cache
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\Homework5_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\Homework5_3.AssemblyInfoInputs.cache
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\Homework5_3.AssemblyInfo.cs
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\Homework5_3.csproj.CoreCompileInputs.cache
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\Homework5_3.dll
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\refint\Homework5_3.dll
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\Homework5_3.pdb
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\Homework5_3.genruntimeconfig.cache
+E:\Обучение GEEK\Homework5\Homework5_3\obj\Debug\net7.0\ref\Homework5_3.dll
